@@ -1,12 +1,12 @@
 {
-    delirius: { baseURL: "https://api.delirius.store" },
-    faaa: { baseURL: "https://api-faa.my.id" },
-    kuroneko: { baseURL: "https://api.danzy.web.id" },
-    lexcode: { baseURL: "https://api.lexcode.biz.id" },
-    nekolabs: { baseURL: "https://rynekoo-api.hf.space" },
-    neo: { baseURL: "https://www.neoapis.xyz" },
-    nexray: { baseURL: "https://api.nexray.eu.cc" },
-    omegatech: { baseURL: "https://omegatech-api.dixonomega.tech" },
-    sanka: { baseURL: "https://www.sankavolereii.my.id", APIKey: "planaai" },
-    siputzx: { baseURL: "https://api.siputzx.my.id" }
+    delirius:  "https://api.delirius.store",
+    faaa:      "https://api-faa.my.id",
+    kuroneko:  "https://api.danzy.web.id",
+    lexcode:   "https://api.lexcode.biz.id",
+    nekolabs:  "https://rynekoo-api.hf.space",
+    neo:       "https://www.neoapis.xyz",
+    nexray:     "https://api.nexray.eu.cc",
+    omegatech:  "https://omegatech-api.dixonomega.tech",
+    sanka:      "https://www.sankavolereii.my.id", APIKey: "planaai",
+    siputzx:    "https://api.siputzx.my.id" }
 };
