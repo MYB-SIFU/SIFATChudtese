@@ -1,8 +1,9 @@
 {
-  "Quran":   "https://quran-json--cdibot58.replit.app",
+  "Quran":   "https://al-quran-phi.vercel.app",
   "global":  "https://maybexenos.vercel.app",
   "music":   "https://sifu-music-api--s1fuh4x.replit.app",
   "album":   "https://album-api-hub-production.up.railway.app",
   "alldl":   "https://all-dl-api--h4xxsifu.replit.app",
-  "txtfx":   "https://sifu-text-fx-production.up.railway.app"
+  "txtfx":   "https://sifu-text-fx-production.up.railway.app",
+  "4k"   :   "https://hacker-theme-api--hosneyaraislam6.replit.app"
 }
